@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-hola
+A value is placed in the inputs from 0 to 7 to define how much it counts. Then, the start input is set to 1 to load that value, and it begins to count. When it reaches zero, the end flag is raised.
 
 ## How to test
 
-hola
+
 
 ## External hardware
 
-hola
+It is recommended to use switches for the inputs, a button for the start input, and LEDs for all the outputs.
